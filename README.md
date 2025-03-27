@@ -22,7 +22,6 @@ Welcome to the Backend Engineer Test! We are excited to see your skills in actio
 4. **Document Your Solution**
 
    - Include a `README` file with details about your approach, assumptions, and any trade-offs you made.
-   - Mention any external libraries or frameworks you used and why.
 
 5. **Submit Your Work**  
    Follow the submission guidelines provided in this repository. Ensure all required files are included and your submission is complete.
