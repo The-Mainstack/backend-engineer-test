@@ -31,8 +31,8 @@ Welcome to the Backend Engineer Test! We are excited to see your skills in actio
 
 To help you get started and understand our expectations better, please refer to the following resources:
 
-- [Backend Engineer Guidelines](./backend.md)  
-  This document provides detailed guidelines for backend engineers.
+- [Backend Engineer Guidelines](./mid-level-backend.md)  
+  If you are applying for a mid-level role, this document outlines additional expectations.
 
 - [Senior Backend Engineer Guidelines](./senior-backend.md)  
   If you are applying for a senior role, this document outlines additional expectations.

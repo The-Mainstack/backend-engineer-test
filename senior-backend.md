@@ -37,6 +37,7 @@ Build a banking ledger system that handles financial transactions with ACID comp
 3. Code quality - use of best practices and efficient algorithms
 4. Error handling - Appropriate error codes and messages
 5. Security - Input validation and/or sanitization
+6. Clean commit history
 
 ## Submission
 
