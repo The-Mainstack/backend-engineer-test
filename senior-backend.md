@@ -1,17 +1,34 @@
-# Backend Engineer Test
+# Senior Backend Engineer Test
 
-Build a simple RESTful API to create and manage products in a store
+## Banking Transactions API (Ledger System)
 
-## Authentication
+### Overview
 
-Implement token-based authentication
+Build a banking ledger system that handles financial transactions with ACID compliance and double-entry accounting using MongoDB transactions.
 
-## Requirements
+### Core Requirements
 
-1. Use NodeJS, Express, Typescript, MongoDB and any other libraries of your choice
-2. All endpoints must be fully documented on Postman
-3. Code must be unit tested
-4. API must be containerized using Docker
+1. **Account Management**
+
+   - Create and manage user accounts
+   - Track account balances
+   - Support multiple currencies
+   - Maintain transaction history
+
+2. **Transaction Operations**
+
+   - Handle deposits
+   - Process withdrawals
+   - Support account-to-account transfers
+   - Ensure double-entry accounting
+
+3. **Technical Requirements**
+   - Use NodeJS, Express, Typescript, MongoDB, and any other libraries of your choice
+   - Ensure ACID compliance using MongoDB transactions
+   - Implement token-based authentication
+   - Fully document all endpoints on Postman
+   - Write unit tests for all functionalities
+   - Containerize the API using Docker (optional)
 
 ## Evaluation Criteria
 
