@@ -10,15 +10,15 @@ Build a banking ledger system that handles financial transactions with ACID comp
 
 1. **Account Management**
 
-   - Create and manage user accounts
+   - Create and manage user accounts (It doesn't need to be sophisticated, no need for verifications)
    - Track account balances
-   - Support multiple currencies
+   - Support multiple currencies (NGN and USD is fine)
    - Maintain transaction history
 
 2. **Transaction Operations**
 
-   - Handle deposits
-   - Process withdrawals
+   - Handle deposits (CREDIT)
+   - Process withdrawals (DEBIT)
    - Support account-to-account transfers
    - Ensure double-entry accounting
 
