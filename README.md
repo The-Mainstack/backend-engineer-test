@@ -1,29 +1,39 @@
-# Backend Engineer Test
+# Instructions for Candidates
 
-Build a simple RESTful API to create and manage products in a store
+Welcome to the Backend Engineer Test! We are excited to see your skills in action. Please follow the instructions below carefully to ensure a smooth and successful submission:
 
-## Authentication
-Implement token-based authentication
+## Steps to Complete the Test
 
-## Requirements
-1. Use NodeJS, Express, Typescript, MongoDB and any other libraries of your choice
-2. All endpoints must be fully documented on Postman
-3. Code must be unit tested
-4. API must be containerized using Docker
+1. **Understand the Requirements**  
+   Carefully review the requirements and tasks outlined in this repository. Make sure you fully understand the problem statements and expectations before you begin.
 
-## Evaluation Criteria
+2. **Write Clean and Maintainable Code**
 
-1. Database design - scalability and query efficiency
-2. Clean code - redundancy and documentation
-3. Code quality - use of best practices and efficient algorithms
-4. Error handling - Appropriate error codes and messages
-5. Security - Input validation and/or sanitization
+   - Ensure your code is clean, modular, and adheres to industry best practices.
+   - Include meaningful comments and documentation to explain your thought process and implementation.
+   - Follow consistent coding standards and naming conventions.
 
+3. **Test Your Work**
 
-## Submission
+   - Write unit tests to validate your code.
+   - Ensure your solution is robust and handles edge cases effectively.
+   - Provide clear instructions on how to run your tests.
 
-Reply with the following:
+4. **Document Your Solution**
 
-1. Link to Github repository
-2. Link to live API
-3. Link to Postman documentation
+   - Include a `README` file with details about your approach, assumptions, and any trade-offs you made.
+
+5. **Submit Your Work**  
+   Follow the submission guidelines provided in this repository. Ensure all required files are included and your submission is complete.
+
+## Additional Resources
+
+To help you get started and understand our expectations better, please refer to the following resources:
+
+- [Backend Engineer Guidelines](./mid-level-backend.md)  
+  If you are applying for a mid-level role, this document outlines additional expectations.
+
+- [Senior Backend Engineer Guidelines](./senior-backend.md)  
+  If you are applying for a senior role, this document outlines additional expectations.
+
+We look forward to reviewing your submission. Good luck, and happy coding!
